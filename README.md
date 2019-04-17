@@ -1,3 +1,8 @@
+Veikimas patikrintas naudojant:
+  -  Google Chrome 73.0.3683.103 (Official Build) (64-bit)
+  -  Microsoft Edge 44.17763.1.0
+
+
 # MT-Lab1
 Multimedijos sistemos. Laboratorinis darbas Nr.1 ir Nr.2
 
